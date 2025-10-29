@@ -1,5 +1,4 @@
 <?php
-echo "sambhav jain";
 $heading     = get_sub_field('awards_heading');
 $description = get_sub_field('awards_description');
 $trustpilot  = get_sub_field('trustpilot_link');
